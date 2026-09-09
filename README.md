@@ -9,6 +9,8 @@ I enjoy transforming raw data into **interactive dashboards, meaningful insights
 🎯 **Actively seeking opportunities in Data Analytics, Business Intelligence, Power BI, MIS, and Reporting.**
 
 ---
+![Personal Finance & Saving Optimization Dashboard]
+
 
 ## 👩‍💻 About Me
 
