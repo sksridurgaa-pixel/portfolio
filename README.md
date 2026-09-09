@@ -114,6 +114,34 @@ The dashboard highlights areas where discretionary spending can be reduced and i
 
 ---
 
+## 👨‍💼 Excel Employee Management System using VBA
+
+**Microsoft Excel | VBA | Excel Macros |**
+
+![Employee data](<employee-data.png.png>)
+
+An Excel-based employee management system developed using VBA macros to organize employee information and automate data-management operations.
+
+### 📌 Key Features
+
+- 👤 Maintains unique Employee IDs
+- 📝 Stores employee names, ages, salaries and departments
+- 📅 Records the date employee information is added
+- ⚙️ Uses VBA macros to automate Excel operations
+- 📊 Organizes employee records in a structured worksheet
+- 🖥️ Built as a macro-enabled `.xlsm` Excel workbook
+- 🔎 Provides a simple and user-friendly employee record system
+
+### 🛠️ Technologies Used
+
+`Microsoft Excel` `VBA` `Excel Macros` `.xlsm`
+
+### 💡 Project Highlight
+
+This project demonstrates how Microsoft Excel and VBA can be combined to create a practical employee data-management and automation solution.
+
+🔗 [View Project on GitHub](https://github.com/sksridurgaa-pixel/excel-macro-project)
+
 ## 🏏 IPL Analysis Dashboard — 2008–2025
 
 **Power BI | DAX | Power Query | Star Schema | Data Modeling**
