@@ -9,8 +9,6 @@ I enjoy transforming raw data into **interactive dashboards, meaningful insights
 🎯 **Actively seeking opportunities in Data Analytics, Business Intelligence, Power BI, MIS, and Reporting.**
 
 ---
-![Personal Finance & Saving Optimization Dashboard]
-
 
 ## 👩‍💻 About Me
 
@@ -63,7 +61,7 @@ I enjoy transforming raw data into **interactive dashboards, meaningful insights
 
 **Power BI | DAX | Data Visualization | Healthcare Analytics**
 
-<healthcare-intelligence-dashboard.png>
+![Indian Healthcare Intelligence Dashboard](healthcare-intelligence-dashboard.png)
 
 An interactive healthcare analytics dashboard designed to analyze **treatment performance, hospitals, patient outcomes, and health metrics**.
 
