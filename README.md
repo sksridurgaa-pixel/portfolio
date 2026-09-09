@@ -86,8 +86,7 @@ The dashboard enables users to compare healthcare outcomes across regions and tr
 
 **Advanced Excel | PivotTables | PivotCharts | Slicers**
 
-<img src="./images/personal-finance-dashboard.png" alt="Personal Finance and Savings Optimization Dashboard" width="100%">
-
+![Personal Finance & Saving Optimization Dashboard](<Personal Finance & Saving Optimization Dashboard .png>)
 An interactive financial analytics dashboard focused on understanding **income, expenses, savings behavior, financial health, and savings opportunities**.
 
 ### 📌 Key Features
@@ -118,8 +117,7 @@ The dashboard highlights areas where discretionary spending can be reduced and i
 
 **Power BI | DAX | Power Query | Star Schema | Data Modeling**
 
-<img src="./images/ipl-analysis-dashboard.png" alt="IPL Analysis Dashboard 2008 to 2025" width="100%">
-
+![IPL Analysis Dashboard](<IPL Analysis Dashboard (2008 - 2025) .png>)
 An end-to-end IPL analytics dashboard built to analyze **18 IPL seasons and 278,205 ball-by-ball records**.
 
 ### 📌 Key Features
@@ -158,7 +156,7 @@ An end-to-end IPL analytics dashboard built to analyze **18 IPL seasons and 278,
 
 **Power BI | Data Visualization | Financial Analytics**
 
-<img src="./images/payment-insights-dashboard.png" alt="Payment Insights Dashboard" width="100%">
+![Payment Insights Dashboard](<Payment Insights Dashboard .png>)
 
 An interactive payment analytics dashboard designed to analyze **transactions, transaction value, users, payment services, customer demographics, and transaction trends**.
 
