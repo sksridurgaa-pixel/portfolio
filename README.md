@@ -86,7 +86,7 @@ The dashboard enables users to compare healthcare outcomes across regions and tr
 
 **Advanced Excel | PivotTables | PivotCharts | Slicers**
 
-![Personal Finance & Saving Optimization Dashboard](Personal%20Finance%20%26%20Saving%20Optimization%20Dashboard%20.png)
+![Personal Finance & Saving Optimization Dashboard](./Personal%20Finance%20%26%20Saving%20Optimization%20Dashboard%20.png)
 
 An interactive financial analytics dashboard focused on understanding **income, expenses, savings behavior, financial health, and savings opportunities**.
 
