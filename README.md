@@ -61,7 +61,7 @@ I enjoy transforming raw data into **interactive dashboards, meaningful insights
 
 **Power BI | DAX | Data Visualization | Healthcare Analytics**
 
-![Indian Healthcare Intelligence Dashboard](healthcare-intelligence-dashboard.png)
+![Indian Healthcare Intelligence Dashboard](<Indian Healthcare Intelligence Dashboard .png>)
 
 An interactive healthcare analytics dashboard designed to analyze **treatment performance, hospitals, patient outcomes, and health metrics**.
 
